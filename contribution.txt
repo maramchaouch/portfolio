@@ -1,0 +1,2 @@
+I forked the repository from the IMC-1 GitHub account to my personal account. 
+Then, I cloned the forked repository to my local machine using Git.
