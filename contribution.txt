@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I forked the repository from the IMC-1 GitHub account to my personal account. 
 Then, I cloned the forked repository to my local machine using Git.
 =======
 IMC 
 >>>>>>> a693f2305e78894abc39949e6e1c16a44ea51722
+=======
+isaam
+>>>>>>> 92b29ad41a933c80f1f6808443e4d1cdc7b73db3
